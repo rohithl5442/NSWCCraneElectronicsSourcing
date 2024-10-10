@@ -24,16 +24,16 @@ The **NSWC Web Application** is a secure and scalable web platform developed as 
 
 ## Screenshots
 
-### 1. Homepage
+### 1. Homepage (Sign-in page)
 
 <div align="center">
-  <img width="755" alt="Capstone 1" src="https://github.com/user-attachments/assets/5de9bbec-9b1a-40fe-a6d1-a5845ff76d47">
+  <img width="772" alt="Capstone 2" src="https://github.com/user-attachments/assets/54668909-06cd-4b8c-a74a-099bf12f0699">
 </div>
 
-### 2. Product Comparison Page
+### 2. Invalid Credentials of Sign-in Page
 
 <div align="center">
-  <img width="755" alt="Capstone 1" src="https://github.com/user-attachments/assets/5de9bbec-9b1a-40fe-a6d1-a5845ff76d47">
+  <img width="772" alt="Capstone 3" src="https://github.com/user-attachments/assets/110d2873-9a2a-4ff7-b1d0-823ba77dc3f6">
 </div>
 
 ### 3. Data Upload Interface
