@@ -53,22 +53,22 @@ The **NSWC Web Application** is a secure and scalable web platform developed as 
   <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
 </div>
 
-### 5. File Upload Criteria in Main Dashboard Page
+### 6. Sample Template Page Preview
 <div align="center">
-  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+  <img width="827" alt="Capstone 7" src="https://github.com/user-attachments/assets/8707265c-fc5b-4fe1-8bba-d816daaf5d6d">
 </div>
 
-### 5. File Upload Criteria in Main Dashboard Page
+### 7. Template File Successful Download
 <div align="center">
-  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+  <img width="827" alt="Capstone 8" src="https://github.com/user-attachments/assets/b7ea1aea-a0c2-4471-99ba-de97f1de2b41">
 </div>
 
-### 5. File Upload Criteria in Main Dashboard Page
+### 8. Downloaded Template File in Finder
 <div align="center">
-  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+  <img width="827" alt="Capstone 9" src="https://github.com/user-attachments/assets/7ca89994-6316-43f8-b371-e73b52463948">
 </div>
 
-### 5. File Upload Criteria in Main Dashboard Page
+### 9. File Upload Criteria in Main Dashboard Page
 <div align="center">
   <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
 </div>
