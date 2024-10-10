@@ -36,20 +36,86 @@ The **NSWC Web Application** is a secure and scalable web platform developed as 
   <img width="772" alt="Capstone 3" src="https://github.com/user-attachments/assets/110d2873-9a2a-4ff7-b1d0-823ba77dc3f6">
 </div>
 
-### 3. Data Upload Interface
+### 3. Registeration Page with Criterias:
 
 <div align="center">
-  <img width="755" alt="Capstone 1" src="https://github.com/user-attachments/assets/5de9bbec-9b1a-40fe-a6d1-a5845ff76d47">
+  <img width="772" alt="Capstone 4" src="https://github.com/user-attachments/assets/8ba139bc-b5c7-4ebc-a832-c6dbd1df292d">
 </div>
 
-### 4. Vendor Data Retrieval
+### 4. Main Dashboard Page with Successful Login
 
 <div align="center">
-  <img width="755" alt="Capstone 1" src="https://github.com/user-attachments/assets/5de9bbec-9b1a-40fe-a6d1-a5845ff76d47">
+  <img width="827" alt="Capstone 5" src="https://github.com/user-attachments/assets/e1f28d39-667f-4965-b35c-6d6b5c82e748">
 </div>
 
+### 5. File Upload Criteria in Main Dashboard Page
 <div align="center">
-  <img width="755" alt="Capstone 1" src="https://github.com/user-attachments/assets/5de9bbec-9b1a-40fe-a6d1-a5845ff76d47">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
+</div>
+
+### 5. File Upload Criteria in Main Dashboard Page
+<div align="center">
+  <img width="827" alt="Capstone 6" src="https://github.com/user-attachments/assets/f4a74687-d793-4bca-8aaa-777b818c446b">
 </div>
 
 
